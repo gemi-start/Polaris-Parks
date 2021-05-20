@@ -1947,3 +1947,7 @@ div.summary .product-offer-item::before {
     }
 }
 .nav-line-active .navbar-nav .active>.nav-link:before{width: 0;height: 0;}
+div .egyptLearn{
+    margin-left: 45%;
+    margin-top: 25px;
+}
