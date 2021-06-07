@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?f7838413dfaf2d113f24c1fc507c9c30") format("truetype"),
+url("./flaticon.woff?f7838413dfaf2d113f24c1fc507c9c30") format("woff"),
+url("./flaticon.woff2?f7838413dfaf2d113f24c1fc507c9c30") format("woff2"),
+url("./flaticon.eot?f7838413dfaf2d113f24c1fc507c9c30#iefix") format("embedded-opentype"),
+url("./flaticon.svg?f7838413dfaf2d113f24c1fc507c9c30#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-hospital:before {
+    content: "\f101";
+}
+.flaticon-cinema-screen:before {
+    content: "\f102";
+}
+.flaticon-school:before {
+    content: "\f103";
+}
+.flaticon-knowledge:before {
+    content: "\f104";
+}
+.flaticon-review:before {
+    content: "\f105";
+}
+.flaticon-university:before {
+    content: "\f106";
+}
+.flaticon-mall:before {
+    content: "\f107";
+}
+.flaticon-golf-club:before {
+    content: "\f108";
+}
+.flaticon-police:before {
+    content: "\f109";
+}
+.flaticon-buildings:before {
+    content: "\f10a";
+}
